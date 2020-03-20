@@ -38,13 +38,19 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] Explain the difference between `Relational Databases` and `SQL`.
+node-db-challenge-questions!!!!!!!!!!!!!
 
-- [ ] Why do tables need a `primary key`?
+	•	Explain the difference between Relational Databases and SQL.
+	A: The difference is that R.DB is primarily a variant of a table, while SQL is a programing language that is designed for DB management.
 
-- [ ] What is the name given to a table column that references the primary key on another table.
+	•	 Why do tables need a primary key?
+	•	A: Because it allows us special access to a specific row
 
-- [ ] What do we need in order to have a _many to many_ relationship between two tables.
+	•	 What is the name given to a table column that references the primary key on another table.
+	•	A: it is classified as a foreign keys. 
+  
+	•	 What do we need in order to have a many to many relationship between two tables.
+		A: we need a 3rd table to reference both tables.
 
 ## Minimum Viable Product
 
